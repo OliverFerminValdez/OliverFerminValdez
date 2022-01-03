@@ -1,4 +1,4 @@
-### Hello, I'm Oliver Fermin 👋 
+### Hello, I'm Oliver 👋 
 
 ## I'm a Systems Engineer!
 
