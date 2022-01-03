@@ -71,7 +71,7 @@
 <br />
 
 [youtube]: https://youtube.com/codeSTACKr
-[linkedin]: www.linkedin.com/in/oliver-fermin-822374228
+[linkedin]: https://www.linkedin.com/in/oliver-fermin-822374228
 [instagram]: https://www.instagram.com/oliver_jfv/?hl=es-la
 [facebook]: https://www.facebook.com/profile.php?id=100007933156239
 [Correo]: mailto:ferminoliver93@gmail.com?subject=From%20Github
