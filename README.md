@@ -20,8 +20,10 @@
   <img align="center" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
   <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img align="center" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+      <img align="center" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
   <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="center" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
+          <img align="center" alt="MongoDb" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
   <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="center" alt="GitHub" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175377.png?token=exp=1641238548~hmac=a6e0b41ed95cb06a439e366ec6a7e391" />
 
