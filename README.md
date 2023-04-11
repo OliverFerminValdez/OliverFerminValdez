@@ -69,9 +69,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Oliver| Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" alt="Oliver | Facebook" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1641238746~hmac=e0e36d3bf470bf6b8a8b3646276eeb26">][facebook]
+[<img align="left" alt="Oliver | Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png">][facebook]
 [<img align="left" alt="Oliver | Mail" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png">][Correo]
-[<img align="left" alt="Oliver | Mail" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1641245453~hmac=fc11074c3f56490d8defc3c82dbbcd92">][linkedin]
+[<img align="left" alt="Oliver | Mail" width="22px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw">][linkedin]
 <br />
 
 [youtube]: https://youtube.com/codeSTACKr
