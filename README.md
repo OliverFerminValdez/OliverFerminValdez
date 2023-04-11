@@ -26,6 +26,7 @@
           <img align="center" alt="MongoDb" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
   <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="center" alt="GitHub" width="26px" src="https://researchcomputing.princeton.edu/sites/g/files/toruqf311/files/styles/freeform_750w/public/2021-02/Github.png?h=0adafebd&itok=LYI4wEES" />
+    <img align="center" alt="Blazor" width="26px" src="https://static.gunnarpeipman.com/wp-content/uploads/2019/11/blazor-featured.png" />
 
 </div>
 <br />
