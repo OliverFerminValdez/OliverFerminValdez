@@ -33,6 +33,14 @@
 
 ---
 
+<h2 align="center">Languages</h2>
+
+<div align ="Center"> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverFerminValdez&theme=yeblu&langs_count=7)
+
+</div>
+
 <br />
 <h2 align="center">Stats</h2>
 <div align="center">
@@ -43,26 +51,9 @@
 
 <br />
 
----
-
-<h2 align="center">Languages</h2>
-
-<div align ="Center"> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverFerminValdez&theme=yeblu&langs_count=7)
-
-</div>
-
----
-
 <br />
 
-<h2 align="center">Contribution Graph</h2>
-<div align="center">
-
  <br>
-
-![Ashutosh's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=OliverFerminValdez&theme=react-dark)
 
 </div>
 
