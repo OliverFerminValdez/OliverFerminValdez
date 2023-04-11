@@ -22,10 +22,10 @@
     <img align="center" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
       <img align="center" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
   <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="center" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />
+  <img align="center" alt="SQL" width="26px" src="https://camo.githubusercontent.com/15186a168066295875d4b41aa44500a7f73b897471cc7271756cf3e476f70974/68747470733a2f2f7777772e697065726975736261636b75702e6e65742f77702d636f6e74656e742f75706c6f6164732f323031362f30352f313736382e73716c5f6c6f676f2e706e67" />
           <img align="center" alt="MongoDb" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
   <img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="center" alt="GitHub" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175377.png?token=exp=1641238548~hmac=a6e0b41ed95cb06a439e366ec6a7e391" />
+  <img align="center" alt="GitHub" width="26px" src="https://researchcomputing.princeton.edu/sites/g/files/toruqf311/files/styles/freeform_750w/public/2021-02/Github.png?h=0adafebd&itok=LYI4wEES" />
 
 </div>
 <br />
